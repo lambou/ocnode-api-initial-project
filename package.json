@@ -33,7 +33,7 @@
     "nodemailer": "^6.4.10",
     "oauth-v2-client": "0.0.7",
     "serialize-error": "^5.0.0",
-    "underscore": "^1.9.2",
+    "underscore": "^1.12.1",
     "unixcrypt": "^1.0.10",
     "validate.js": "^0.13.1",
     "validator": "^12.2.0"
