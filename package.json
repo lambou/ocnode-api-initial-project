@@ -30,7 +30,7 @@
     "mailgen": "^2.0.10",
     "moment": "^2.24.0",
     "mongoose": "^5.10.11",
-    "nodemailer": "^6.4.10",
+    "nodemailer": "^6.4.16",
     "oauth-v2-client": "0.0.7",
     "serialize-error": "^5.0.0",
     "underscore": "^1.9.2",
